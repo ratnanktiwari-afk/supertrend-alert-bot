@@ -8,11 +8,11 @@
     "pending_entry_next_bar": false,
     "in_trade": true,
     "in_trailing_mode": false,
-    "trade_type": "SELL",
-    "entry_price": 61479.59,
-    "sl_price": 61664,
-    "target_price": 61295.17999999999,
-    "prev_direction": 1,
+    "trade_type": "BUY",
+    "entry_price": 61822.71,
+    "sl_price": 61701.6,
+    "target_price": 61943.82,
+    "prev_direction": -1,
     "outcomes": [
       [
         "SL",
@@ -485,9 +485,17 @@
       [
         "TARGET",
         1782989100000
+      ],
+      [
+        "SL",
+        1783033200000
+      ],
+      [
+        "SL",
+        1783040400000
       ]
     ],
-    "last_processed_time": 1783023300000
+    "last_processed_time": 1783066500000
   },
   "^NSEI": {
     "symbol": "^NSEI",
@@ -496,13 +504,13 @@
     "pending_sl": null,
     "breakout_done": false,
     "pending_entry_next_bar": false,
-    "in_trade": false,
+    "in_trade": true,
     "in_trailing_mode": false,
-    "trade_type": null,
-    "entry_price": null,
-    "sl_price": null,
-    "target_price": null,
-    "prev_direction": -1,
+    "trade_type": "SELL",
+    "entry_price": 24305.94921875,
+    "sl_price": 24355.44921875,
+    "target_price": 24256.44921875,
+    "prev_direction": 1,
     "outcomes": [
       [
         "SL",
@@ -1077,6 +1085,6 @@
         1782984600000
       ]
     ],
-    "last_processed_time": 1782984600000
+    "last_processed_time": 1783066500000
   }
 }

@@ -1,17 +1,17 @@
 {
   "B-BTC_USDT": {
     "symbol": "B-BTC_USDT",
-    "pending_type": "BUY",
-    "pending_breakout_level": 64700,
-    "pending_sl": 63810,
+    "pending_type": null,
+    "pending_breakout_level": null,
+    "pending_sl": null,
     "breakout_done": false,
     "pending_entry_next_bar": false,
-    "in_trade": false,
+    "in_trade": true,
     "in_trailing_mode": false,
-    "trade_type": null,
-    "entry_price": null,
-    "sl_price": null,
-    "target_price": null,
+    "trade_type": "BUY",
+    "entry_price": 63294.23,
+    "sl_price": 63063.28,
+    "target_price": 63525.18000000001,
     "prev_direction": -1,
     "outcomes": [
       [
@@ -665,15 +665,31 @@
       [
         "SL",
         1783361700000
+      ],
+      [
+        "SL",
+        1783383300000
+      ],
+      [
+        "TARGET",
+        1783390500000
+      ],
+      [
+        "TARGET",
+        1783392300000
+      ],
+      [
+        "SL",
+        1783408500000
       ]
     ],
-    "last_processed_time": 1783377000000
+    "last_processed_time": 1783419300000
   },
   "^NSEI": {
     "symbol": "^NSEI",
-    "pending_type": "BUY",
-    "pending_breakout_level": 24447.650390625,
-    "pending_sl": 24404.599609375,
+    "pending_type": "SELL",
+    "pending_breakout_level": 24390.349609375,
+    "pending_sl": 24459.349609375,
     "breakout_done": false,
     "pending_entry_next_bar": false,
     "in_trade": false,
@@ -682,7 +698,7 @@
     "entry_price": null,
     "sl_price": null,
     "target_price": null,
-    "prev_direction": -1,
+    "prev_direction": 1,
     "outcomes": [
       [
         "SL",
@@ -1275,8 +1291,28 @@
       [
         "SL",
         1783330200000
+      ],
+      [
+        "TARGET",
+        1783402200000
+      ],
+      [
+        "TARGET",
+        1783404900000
+      ],
+      [
+        "TARGET",
+        1783409400000
+      ],
+      [
+        "TARGET",
+        1783411200000
+      ],
+      [
+        "SL",
+        1783416600000
       ]
     ],
-    "last_processed_time": 1783330200000
+    "last_processed_time": 1783416600000
   }
 }

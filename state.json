@@ -1,18 +1,18 @@
 {
   "B-BTC_USDT": {
     "symbol": "B-BTC_USDT",
-    "pending_type": "BUY",
-    "pending_breakout_level": 66400,
-    "pending_sl": 66277.33,
+    "pending_type": null,
+    "pending_breakout_level": null,
+    "pending_sl": null,
     "breakout_done": false,
     "pending_entry_next_bar": false,
-    "in_trade": false,
-    "in_trailing_mode": false,
-    "trade_type": null,
-    "entry_price": null,
-    "sl_price": null,
-    "target_price": null,
-    "prev_direction": -1,
+    "in_trade": true,
+    "in_trailing_mode": true,
+    "trade_type": "SELL",
+    "entry_price": 66069.99,
+    "sl_price": 65860.6,
+    "target_price": 65758.93000000001,
+    "prev_direction": 1,
     "outcomes": [
       [
         "SL",
@@ -1257,23 +1257,47 @@
       [
         "TARGET",
         1784673000000
+      ],
+      [
+        "TARGET",
+        1784677500000
+      ],
+      [
+        "TARGET",
+        1784681100000
+      ],
+      [
+        "SL",
+        1784687400000
+      ],
+      [
+        "SL",
+        1784693700000
+      ],
+      [
+        "SL",
+        1784696400000
+      ],
+      [
+        "TARGET",
+        1784705400000
       ]
     ],
-    "last_processed_time": 1784675700000
+    "last_processed_time": 1784706300000
   },
   "^NSEI": {
     "symbol": "^NSEI",
-    "pending_type": null,
-    "pending_breakout_level": null,
-    "pending_sl": null,
+    "pending_type": "BUY",
+    "pending_breakout_level": 24017.05078125,
+    "pending_sl": 23978.0,
     "breakout_done": false,
     "pending_entry_next_bar": false,
-    "in_trade": true,
+    "in_trade": false,
     "in_trailing_mode": false,
-    "trade_type": "BUY",
-    "entry_price": 24190.44921875,
-    "sl_price": 24148.400390625,
-    "target_price": 24232.498046875,
+    "trade_type": null,
+    "entry_price": null,
+    "sl_price": null,
+    "target_price": null,
     "prev_direction": -1,
     "outcomes": [
       [
@@ -1951,8 +1975,16 @@
       [
         "TARGET",
         1784611800000
+      ],
+      [
+        "SL",
+        1784691900000
+      ],
+      [
+        "SL",
+        1784701800000
       ]
     ],
-    "last_processed_time": 1784626200000
+    "last_processed_time": 1784706300000
   }
 }

@@ -1561,9 +1561,13 @@
       [
         "TARGET",
         1785230100000
+      ],
+      [
+        "SL",
+        1785238200000
       ]
     ],
-    "last_processed_time": 1785231000000
+    "last_processed_time": 1785238200000
   },
   "^NSEI": {
     "symbol": "^NSEI",

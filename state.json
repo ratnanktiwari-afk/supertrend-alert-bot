@@ -4,8 +4,8 @@
     "pending_type": "SELL",
     "pending_breakout_level": 65116.3,
     "pending_sl": 65192.54,
-    "breakout_done": false,
-    "pending_entry_next_bar": false,
+    "breakout_done": true,
+    "pending_entry_next_bar": true,
     "in_trade": false,
     "in_trailing_mode": false,
     "trade_type": null,
@@ -2015,7 +2015,7 @@
         1786191300000
       ]
     ],
-    "last_processed_time": 1786199400000
+    "last_processed_time": 1786201200000
   },
   "^NSEI": {
     "symbol": "^NSEI",

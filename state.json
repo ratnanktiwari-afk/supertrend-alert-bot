@@ -2671,22 +2671,22 @@
         1787536800000
       ]
     ],
-    "last_processed_time": 1787543100000
+    "last_processed_time": 1787545800000
   },
   "^NSEI": {
     "symbol": "^NSEI",
-    "pending_type": "BUY",
-    "pending_breakout_level": 24252.0,
-    "pending_sl": 24234.75,
-    "breakout_done": true,
-    "pending_entry_next_bar": true,
+    "pending_type": "SELL",
+    "pending_breakout_level": 24267.30078125,
+    "pending_sl": 24285.150390625,
+    "breakout_done": false,
+    "pending_entry_next_bar": false,
     "in_trade": false,
     "in_trailing_mode": false,
     "trade_type": null,
     "entry_price": null,
     "sl_price": null,
     "target_price": null,
-    "prev_direction": -1,
+    "prev_direction": 1,
     "outcomes": [
       [
         "SL",
@@ -3569,6 +3569,6 @@
         1787127300000
       ]
     ],
-    "last_processed_time": 1787543100000
+    "last_processed_time": 1787545800000
   }
 }

@@ -2771,7 +2771,7 @@
         1787727600000
       ]
     ],
-    "last_processed_time": 1787728500000
+    "last_processed_time": 1787730300000
   },
   "^NSEI": {
     "symbol": "^NSEI",
@@ -3701,6 +3701,6 @@
         1787718600000
       ]
     ],
-    "last_processed_time": 1787728500000
+    "last_processed_time": 1787730300000
   }
 }

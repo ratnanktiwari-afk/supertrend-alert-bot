@@ -12,7 +12,7 @@
     "entry_price": null,
     "sl_price": null,
     "target_price": null,
-    "prev_direction": 1,
+    "prev_direction": -1,
     "outcomes": [
       [
         "SL",
@@ -4497,9 +4497,13 @@
       [
         "TARGET",
         1790956800000
+      ],
+      [
+        "SL",
+        1790973000000
       ]
     ],
-    "last_processed_time": 1790957700000
+    "last_processed_time": 1790973000000
   },
   "^NSEI": {
     "symbol": "^NSEI",

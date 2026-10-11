@@ -9,9 +9,9 @@
     "in_trade": true,
     "in_trailing_mode": false,
     "trade_type": "BUY",
-    "entry_price": 83055.42,
-    "sl_price": 82932.01,
-    "target_price": 83178.83,
+    "entry_price": 83018.15,
+    "sl_price": 82995.12,
+    "target_price": 83041.18,
     "prev_direction": -1,
     "outcomes": [
       [
@@ -4811,7 +4811,7 @@
         1791641700000
       ]
     ],
-    "last_processed_time": 1791674100000
+    "last_processed_time": 1791683100000
   },
   "^NSEI": {
     "symbol": "^NSEI",

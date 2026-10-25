@@ -5333,9 +5333,13 @@
       [
         "SL",
         1792888200000
+      ],
+      [
+        "SL",
+        1792902600000
       ]
     ],
-    "last_processed_time": 1792890000000
+    "last_processed_time": 1792908000000
   },
   "^NSEI": {
     "symbol": "^NSEI",

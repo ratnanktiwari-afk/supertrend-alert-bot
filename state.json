@@ -6,12 +6,12 @@
     "pending_sl": null,
     "breakout_done": false,
     "pending_entry_next_bar": false,
-    "in_trade": false,
+    "in_trade": true,
     "in_trailing_mode": false,
-    "trade_type": null,
-    "entry_price": null,
-    "sl_price": null,
-    "target_price": null,
+    "trade_type": "BUY",
+    "entry_price": 77388.86,
+    "sl_price": 77276,
+    "target_price": 77501.72,
     "prev_direction": -1,
     "outcomes": [
       [
@@ -5633,9 +5633,17 @@
       [
         "TARGET",
         1793406600000
+      ],
+      [
+        "TARGET",
+        1793417400000
+      ],
+      [
+        "TARGET",
+        1793419200000
       ]
     ],
-    "last_processed_time": 1793410200000
+    "last_processed_time": 1793430900000
   },
   "^NSEI": {
     "symbol": "^NSEI",

@@ -1,18 +1,18 @@
 {
   "B-BTC_USDT": {
     "symbol": "B-BTC_USDT",
-    "pending_type": "BUY",
-    "pending_breakout_level": 73664.49,
-    "pending_sl": 73561,
-    "breakout_done": true,
-    "pending_entry_next_bar": true,
+    "pending_type": "SELL",
+    "pending_breakout_level": 71517,
+    "pending_sl": 71944.88,
+    "breakout_done": false,
+    "pending_entry_next_bar": false,
     "in_trade": false,
     "in_trailing_mode": false,
     "trade_type": null,
     "entry_price": null,
     "sl_price": null,
     "target_price": null,
-    "prev_direction": -1,
+    "prev_direction": 1,
     "outcomes": [
       [
         "SL",
@@ -6141,15 +6141,39 @@
       [
         "TARGET",
         1794461400000
+      ],
+      [
+        "TARGET",
+        1794478500000
+      ],
+      [
+        "TARGET",
+        1794480300000
+      ],
+      [
+        "TARGET",
+        1794483000000
+      ],
+      [
+        "TARGET",
+        1794484800000
+      ],
+      [
+        "TARGET",
+        1794492900000
+      ],
+      [
+        "TARGET",
+        1794498300000
       ]
     ],
-    "last_processed_time": 1794470400000
+    "last_processed_time": 1794501000000
   },
   "^NSEI": {
     "symbol": "^NSEI",
-    "pending_type": null,
-    "pending_breakout_level": null,
-    "pending_sl": null,
+    "pending_type": "BUY",
+    "pending_breakout_level": 25283.5,
+    "pending_sl": 25250.5,
     "breakout_done": false,
     "pending_entry_next_bar": false,
     "in_trade": false,
@@ -6158,7 +6182,7 @@
     "entry_price": null,
     "sl_price": null,
     "target_price": null,
-    "prev_direction": 1,
+    "prev_direction": -1,
     "outcomes": [
       [
         "SL",
@@ -7585,6 +7609,6 @@
         1794467700000
       ]
     ],
-    "last_processed_time": 1794470400000
+    "last_processed_time": 1794475800000
   }
 }

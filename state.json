@@ -2,8 +2,8 @@
   "B-BTC_USDT": {
     "symbol": "B-BTC_USDT",
     "pending_type": "SELL",
-    "pending_breakout_level": 65328.76,
-    "pending_sl": 65606.01,
+    "pending_breakout_level": 63734.71,
+    "pending_sl": 64544.37,
     "breakout_done": false,
     "pending_entry_next_bar": false,
     "in_trade": false,
@@ -6243,7 +6243,7 @@
         1794687300000
       ]
     ],
-    "last_processed_time": 1794688200000
+    "last_processed_time": 1794701700000
   },
   "^NSEI": {
     "symbol": "^NSEI",
